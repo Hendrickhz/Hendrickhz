@@ -10,6 +10,8 @@ I'm a junior web developer passionate about building web applications. I love wo
 - **Backend**: Laravel
 - **Databases**: Various database systems
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ## Projects and Contributions
 
 I have created several projects on my GitHub account, showcasing my skills and what I've learned. Feel free to check them out!
@@ -33,9 +35,8 @@ I have created several projects on my GitHub account, showcasing my skills and w
 
 Feel free to reach out to me:
 
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [Email](mailto:hhzaw325@example.com)
+- [LinkedIn](https://www.linkedin.com/in/hhzaw325)
 
 ![Profile Picture](https://link-to-your-profile-picture.com)
 
