@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Hein Htet Zaw (Hendrick) 👋
 
-<!--
-**Hendrickhz/Hendrickhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a junior web developer passionate about building web applications. I love working with modern web technologies and continuously strive to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+- **Frontend**: React
+- **Backend**: Laravel
+- **Databases**: Various database systems
+
+## Projects and Contributions
+
+I have created several projects on my GitHub account, showcasing my skills and what I've learned. Feel free to check them out!
+
+## Education
+
+- **Level 5 Diploma in Computing** from NCC Education
+- Currently attending the final year of **BSc (Hons) Computing** at the University of Greenwich
+
+## Experience
+
+- Developed self-initiated projects
+- Participated in a coding workshop where I collaborated on three React projects as part of a team
+
+## Interests and Hobbies
+
+- Love football
+- Enjoy watching movies
+
+## Contact
+
+Feel free to reach out to me:
+
+- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+
+![Profile Picture](https://link-to-your-profile-picture.com)
+
+Thanks for visiting my profile!
+
