@@ -34,7 +34,5 @@ Feel free to reach out to me:
 - [Email](mailto:hhzaw325@example.com)
 - [LinkedIn](https://www.linkedin.com/in/hhzaw325)
 
-![Profile Picture](https://link-to-your-profile-picture.com)
-
 Thanks for visiting my profile!
 
