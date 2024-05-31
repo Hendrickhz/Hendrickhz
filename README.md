@@ -4,13 +4,9 @@
 
 I'm a junior web developer passionate about building web applications. I love working with modern web technologies and continuously strive to improve my skills.
 
-## Skills and Technologies
+## 💻 My Tech Stack:
 
-- **Frontend**: React
-- **Backend**: Laravel
-- **Databases**: Various database systems
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,php,laravel,mysql,postgres&perline=6)](https://skillicons.dev)
 
 ## Projects and Contributions
 
